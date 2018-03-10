@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore-ContentSecurityPolicy", "AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy.csproj", "{AC68CDB8-6EF5-42CD-B4A1-7237F6EE7669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore-Encoders", "AspNetCore-Encoders\AspNetCore-Encoders.csproj", "{548F66D5-9016-4CF9-AE03-BDB4D2A42C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC68CDB8-6EF5-42CD-B4A1-7237F6EE7669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC68CDB8-6EF5-42CD-B4A1-7237F6EE7669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC68CDB8-6EF5-42CD-B4A1-7237F6EE7669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC68CDB8-6EF5-42CD-B4A1-7237F6EE7669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548F66D5-9016-4CF9-AE03-BDB4D2A42C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548F66D5-9016-4CF9-AE03-BDB4D2A42C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548F66D5-9016-4CF9-AE03-BDB4D2A42C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548F66D5-9016-4CF9-AE03-BDB4D2A42C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B042B2B-888C-4F52-B87B-359EBD571960}
+	EndGlobalSection
+EndGlobal

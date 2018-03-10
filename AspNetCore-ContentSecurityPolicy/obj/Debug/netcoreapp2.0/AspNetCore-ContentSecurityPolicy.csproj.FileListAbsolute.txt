@@ -1,0 +1,11 @@
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\bin\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.deps.json
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\bin\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.runtimeconfig.json
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\bin\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.runtimeconfig.dev.json
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\bin\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.dll
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\bin\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.pdb
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\obj\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.csprojResolveAssemblyReference.cache
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\obj\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.csproj.CoreCompileInputs.cache
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\obj\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.AssemblyInfoInputs.cache
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\obj\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.AssemblyInfo.cs
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\obj\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.dll
+C:\Users\roman\AspNetCore-ContentSecurityPolicy\AspNetCore-ContentSecurityPolicy\obj\Debug\netcoreapp2.0\AspNetCore-ContentSecurityPolicy.pdb

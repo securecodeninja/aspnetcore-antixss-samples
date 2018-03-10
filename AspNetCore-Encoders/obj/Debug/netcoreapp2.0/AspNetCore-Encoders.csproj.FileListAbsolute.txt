@@ -1,0 +1,11 @@
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\bin\Debug\netcoreapp2.0\AspNetCore-Encoders.deps.json
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\bin\Debug\netcoreapp2.0\AspNetCore-Encoders.runtimeconfig.json
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\bin\Debug\netcoreapp2.0\AspNetCore-Encoders.runtimeconfig.dev.json
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\bin\Debug\netcoreapp2.0\AspNetCore-Encoders.dll
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\bin\Debug\netcoreapp2.0\AspNetCore-Encoders.pdb
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\obj\Debug\netcoreapp2.0\AspNetCore-Encoders.csprojResolveAssemblyReference.cache
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\obj\Debug\netcoreapp2.0\AspNetCore-Encoders.csproj.CoreCompileInputs.cache
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\obj\Debug\netcoreapp2.0\AspNetCore-Encoders.AssemblyInfoInputs.cache
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\obj\Debug\netcoreapp2.0\AspNetCore-Encoders.AssemblyInfo.cs
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\obj\Debug\netcoreapp2.0\AspNetCore-Encoders.dll
+C:\Users\roman\AspNetCore-AntiXSS-Samples\AspNetCore-Encoders\obj\Debug\netcoreapp2.0\AspNetCore-Encoders.pdb
